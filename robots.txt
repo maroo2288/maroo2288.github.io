@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /Maroo-admin/
+Sitemap: https://maroo2288.github.io/Maroo/sitemap.xml
